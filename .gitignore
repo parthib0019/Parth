@@ -1,0 +1,5 @@
+venv/
+welcome.mp3
+check_models.py
+main.py
+.env
